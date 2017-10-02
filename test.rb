@@ -1,3 +1,4 @@
+# dokumentace k metode
 def example(a)
   a == 0
 end
